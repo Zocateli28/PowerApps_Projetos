@@ -8,5 +8,5 @@ Neste repositório, compartilho alguns projetos que venho criando como exercíci
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-zocateli-0b11a9199/)
 
 # 🐱‍🏍 Referências
-- [Power Apps na Prática]([https://www.dio.me/](https://powerappsnapratica.com.br/)https://powerappsnapratica.com.br/)
+- [Power Apps na Prática](https://powerappsnapratica.com.br/)
   
